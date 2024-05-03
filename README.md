@@ -9,3 +9,4 @@
 # 사용한 모델
 
 ![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/1fcdf1e5-fd3a-432d-85ad-31277c7646ee)
+
