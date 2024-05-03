@@ -13,5 +13,7 @@
 # 결과
 
 노란색: 모델 예측 결과
+<br/> 
+
 빨간색: Ground Truth
 ![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/c62b12b7-e208-4793-be89-cfa3088c2988)
