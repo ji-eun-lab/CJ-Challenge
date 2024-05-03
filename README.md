@@ -17,4 +17,9 @@
 
 빨간색: Ground Truth
 <br/> 
-![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/c62b12b7-e208-4793-be89-cfa3088c2988  width="200" height="400")
+
+<p align="center">
+  <img src="https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/c62b12b7-e208-4793-be89-cfa3088c2988" width="500" height="450">
+</p>
+
+
