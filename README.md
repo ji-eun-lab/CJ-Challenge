@@ -9,5 +9,15 @@
 # 사용한 모델
 Backbone: ResNet, GoogLeNet, ResGoogLeNet
 
+Model: Detectron2
+
 ![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/1fcdf1e5-fd3a-432d-85ad-31277c7646ee)
+
+<br/> 
+
+# 모델 결과 사진
+
+<img src="https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/3a84c97f-62f2-48fa-b88a-02be908b4602" width="300" height="400">
+
+
 
