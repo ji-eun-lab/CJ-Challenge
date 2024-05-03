@@ -11,6 +11,8 @@ Backbone: ResNet, GoogLeNet, ResGoogLeNet
 
 Model: Detectron2
 
+Backbone 모델에서 Segmentation, Detectorn2에서 Object Detection
+
 ![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/1fcdf1e5-fd3a-432d-85ad-31277c7646ee)
 
 <br/> 
