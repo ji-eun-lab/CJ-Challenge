@@ -10,3 +10,8 @@
 
 ![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/1fcdf1e5-fd3a-432d-85ad-31277c7646ee)
 
+# 결과
+
+노란색: 모델 예측 결과
+빨간색: Ground Truth
+![image](https://github.com/ji-eun-lab/CJ-Challenge/assets/73579127/c62b12b7-e208-4793-be89-cfa3088c2988)
